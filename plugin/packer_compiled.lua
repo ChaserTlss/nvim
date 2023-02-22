@@ -85,15 +85,15 @@ _G.packer_plugins = {
     path = "/home/daniel/.local/share/nvim/site/pack/packer/start/packer.nvim",
     url = "https://github.com/wbthomason/packer.nvim"
   },
-  ["penary.nvim"] = {
-    loaded = true,
-    path = "/home/daniel/.local/share/nvim/site/pack/packer/start/penary.nvim",
-    url = "https://github.com/nvim-lua/penary.nvim"
-  },
   ["plenary.nvim"] = {
     loaded = true,
     path = "/home/daniel/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
+  },
+  tagbar = {
+    loaded = true,
+    path = "/home/daniel/.local/share/nvim/site/pack/packer/start/tagbar",
+    url = "https://github.com/preservim/tagbar"
   }
 }
 
