@@ -16,4 +16,6 @@ return require('packer').startup(function(use)
 
   use 'github/copilot.vim'
 
+  use {'neoclide/coc.nvim', branch = 'release'}
+
   end)
