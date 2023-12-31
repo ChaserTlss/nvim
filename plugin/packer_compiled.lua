@@ -90,6 +90,11 @@ _G.packer_plugins = {
     path = "/Users/daimiaochen/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
   },
+  ["indent-blankline.nvim"] = {
+    loaded = true,
+    path = "/Users/daimiaochen/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    url = "https://github.com/lukas-reineke/indent-blankline.nvim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/Users/daimiaochen/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -104,6 +109,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/daimiaochen/.local/share/nvim/site/pack/packer/start/tagbar",
     url = "https://github.com/preservim/tagbar"
+  },
+  ["vim-wakatime"] = {
+    loaded = true,
+    path = "/Users/daimiaochen/.local/share/nvim/site/pack/packer/start/vim-wakatime",
+    url = "https://github.com/wakatime/vim-wakatime"
   }
 }
 
